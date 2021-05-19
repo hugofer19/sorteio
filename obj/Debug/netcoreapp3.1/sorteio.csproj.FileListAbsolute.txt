@@ -1,0 +1,13 @@
+E:\PROGRAMA\C#\sorteio\bin\Debug\netcoreapp3.1\sorteio.exe
+E:\PROGRAMA\C#\sorteio\bin\Debug\netcoreapp3.1\sorteio.deps.json
+E:\PROGRAMA\C#\sorteio\bin\Debug\netcoreapp3.1\sorteio.runtimeconfig.json
+E:\PROGRAMA\C#\sorteio\bin\Debug\netcoreapp3.1\sorteio.runtimeconfig.dev.json
+E:\PROGRAMA\C#\sorteio\bin\Debug\netcoreapp3.1\sorteio.dll
+E:\PROGRAMA\C#\sorteio\bin\Debug\netcoreapp3.1\sorteio.pdb
+E:\PROGRAMA\C#\sorteio\obj\Debug\netcoreapp3.1\sorteio.csprojAssemblyReference.cache
+E:\PROGRAMA\C#\sorteio\obj\Debug\netcoreapp3.1\sorteio.AssemblyInfoInputs.cache
+E:\PROGRAMA\C#\sorteio\obj\Debug\netcoreapp3.1\sorteio.AssemblyInfo.cs
+E:\PROGRAMA\C#\sorteio\obj\Debug\netcoreapp3.1\sorteio.csproj.CoreCompileInputs.cache
+E:\PROGRAMA\C#\sorteio\obj\Debug\netcoreapp3.1\sorteio.dll
+E:\PROGRAMA\C#\sorteio\obj\Debug\netcoreapp3.1\sorteio.pdb
+E:\PROGRAMA\C#\sorteio\obj\Debug\netcoreapp3.1\sorteio.genruntimeconfig.cache
